@@ -1,4 +1,5 @@
 ## ✏ 미분
+### 함수의 극한, 연속함수
 ![KakaoTalk_20240724_015018514](https://github.com/user-attachments/assets/1f746dae-5b46-4825-851c-458d106c507b)
 ![KakaoTalk_20240724_015018912](https://github.com/user-attachments/assets/0b5c6b31-9e65-4cd7-835f-c556e5a40cb0)
 ![KakaoTalk_20240724_015019219](https://github.com/user-attachments/assets/692998fe-19ed-405a-97c3-a4fe54a7046a)
@@ -8,4 +9,10 @@
 ![KakaoTalk_20240724_015020480](https://github.com/user-attachments/assets/a6eb07cb-00ad-46c7-8930-3ac0826957bf)
 ![7_23 (2)](https://github.com/user-attachments/assets/74dacd2d-4a27-4183-bc50-6df5fdca4345)
 ![7_23](https://github.com/user-attachments/assets/eea44288-86cf-4db3-8b45-6d07d67b3567)
+---
+
+### 중간값 정리
+![KakaoTalk_20240724_233952185](https://github.com/user-attachments/assets/b444b540-acdb-45ad-a76b-ead6c94f07fd)
+![KakaoTalk_20240724_233833261](https://github.com/user-attachments/assets/eaa1a1e0-1c6d-48ef-a591-9b794b9586d5)
+![KakaoTalk_20240724_233833700](https://github.com/user-attachments/assets/18022d54-6157-4175-9971-b6ffe6a13f95)
 ---
