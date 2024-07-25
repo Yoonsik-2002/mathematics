@@ -16,3 +16,6 @@
 ![KakaoTalk_20240724_233833261](https://github.com/user-attachments/assets/eaa1a1e0-1c6d-48ef-a591-9b794b9586d5)
 ![KakaoTalk_20240724_233833700](https://github.com/user-attachments/assets/18022d54-6157-4175-9971-b6ffe6a13f95)
 ---
+
+### 미분의 정의
+
