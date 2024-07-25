@@ -10,12 +10,18 @@
 ![7_23 (2)](https://github.com/user-attachments/assets/74dacd2d-4a27-4183-bc50-6df5fdca4345)
 ![7_23](https://github.com/user-attachments/assets/eea44288-86cf-4db3-8b45-6d07d67b3567)
 ---
+<br>
 
 ### 중간값 정리
 ![KakaoTalk_20240724_233952185](https://github.com/user-attachments/assets/b444b540-acdb-45ad-a76b-ead6c94f07fd)
 ![KakaoTalk_20240724_233833261](https://github.com/user-attachments/assets/eaa1a1e0-1c6d-48ef-a591-9b794b9586d5)
 ![KakaoTalk_20240724_233833700](https://github.com/user-attachments/assets/18022d54-6157-4175-9971-b6ffe6a13f95)
 ---
+<br>
 
 ### 미분의 정의
+![KakaoTalk_20240726_005603299](https://github.com/user-attachments/assets/fc18d58e-37d9-4134-bc1e-00350b1dfa2b)
+![KakaoTalk_20240726_005603601](https://github.com/user-attachments/assets/1c387b4e-e9fc-4954-99e1-175cc0c01f6d)
+---
+<br>
 
