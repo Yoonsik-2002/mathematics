@@ -21,7 +21,15 @@
 
 ### 미분의 정의
 ![KakaoTalk_20240726_005603299](https://github.com/user-attachments/assets/fc18d58e-37d9-4134-bc1e-00350b1dfa2b)
-![KakaoTalk_20240726_005603601](https://github.com/user-attachments/assets/1c387b4e-e9fc-4954-99e1-175cc0c01f6d)
+![KakaoTalk_20240727_004049216](https://github.com/user-attachments/assets/a6738bf3-b33c-4eaa-a3a1-d2f94f99b1c1)
 ---
 <br>
+
+### 도함수, 함성함수의 미분
+![KakaoTalk_20240727_004049608](https://github.com/user-attachments/assets/cdd6281e-3927-431f-b3fd-f327cc4dc1dc)
+![KakaoTalk_20240727_004050009](https://github.com/user-attachments/assets/15232176-78a3-4613-bfbb-b22424a1ceff)
+![KakaoTalk_20240727_004050462](https://github.com/user-attachments/assets/e5a1c8fe-ce52-4e68-8ece-255fcd6e592b)
+---
+<br>
+
 
