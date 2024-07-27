@@ -20,6 +20,8 @@
 <br>
 
 ### 미분의 정의(평균 변화율, 순간 변화율)
+![KakaoTalk_20240727_234819784](https://github.com/user-attachments/assets/cf90697f-c803-4a3d-8ce6-0268ced25144)
+
 ![KakaoTalk_20240726_005603299](https://github.com/user-attachments/assets/fc18d58e-37d9-4134-bc1e-00350b1dfa2b)
 ![KakaoTalk_20240727_004049216](https://github.com/user-attachments/assets/a6738bf3-b33c-4eaa-a3a1-d2f94f99b1c1)
 ---
@@ -29,6 +31,8 @@
 ![KakaoTalk_20240727_004049608](https://github.com/user-attachments/assets/cdd6281e-3927-431f-b3fd-f327cc4dc1dc)
 ![KakaoTalk_20240727_004050009](https://github.com/user-attachments/assets/15232176-78a3-4613-bfbb-b22424a1ceff)
 ![KakaoTalk_20240727_004050462](https://github.com/user-attachments/assets/e5a1c8fe-ce52-4e68-8ece-255fcd6e592b)
+![KakaoTalk_20240727_234740875](https://github.com/user-attachments/assets/37183da5-594f-47d6-a458-672ef8b226b2)
+![KakaoTalk_20240727_234741231](https://github.com/user-attachments/assets/3cbf0867-9ec4-45ac-8e76-2d50dd6a7faa)
 ---
 <br>
 
