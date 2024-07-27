@@ -25,7 +25,7 @@
 ---
 <br>
 
-### 도함수, 함성함수의 미분
+### 도함수, 함성함수의 미분, 연쇄법칙(chain rule)
 ![KakaoTalk_20240727_004049608](https://github.com/user-attachments/assets/cdd6281e-3927-431f-b3fd-f327cc4dc1dc)
 ![KakaoTalk_20240727_004050009](https://github.com/user-attachments/assets/15232176-78a3-4613-bfbb-b22424a1ceff)
 ![KakaoTalk_20240727_004050462](https://github.com/user-attachments/assets/e5a1c8fe-ce52-4e68-8ece-255fcd6e592b)
