@@ -36,5 +36,14 @@
 ---
 <br>
 
+### 역삼각함수의 함성함수의 미분과 그래프
+![KakaoTalk_20240730_214739518](https://github.com/user-attachments/assets/849694ce-49ec-4097-8f12-9418fc364b23)
+![KakaoTalk_20240730_214740142](https://github.com/user-attachments/assets/6795b927-8557-45f8-92d4-46c95f156be6)
+![KakaoTalk_20240730_214740683](https://github.com/user-attachments/assets/b34870ab-5fba-4a1c-990d-b5bc18a72d6e)
+---
+<br>
+
+
+
 
 
