@@ -43,7 +43,10 @@
 ---
 <br>
 
-
+### 로그 미분법
+![KakaoTalk_20240731_233246188](https://github.com/user-attachments/assets/6c4012fa-f8af-4cd6-90c2-789694c1c801)
+---
+<br>
 
 
 
