@@ -48,6 +48,12 @@
 ---
 <br>
 
+### 음함수의 미분법, 편미분
+![KakaoTalk_20240801_235417815](https://github.com/user-attachments/assets/9f1b9d88-6198-4988-b8a1-19cee6fd52c9)
+![KakaoTalk_20240801_235418177](https://github.com/user-attachments/assets/ebabee1f-fbdc-45b8-abf0-c4d7295b805f)
+---
+<br>
+
 
 
 
