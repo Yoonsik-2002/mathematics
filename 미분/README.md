@@ -48,9 +48,16 @@
 ---
 <br>
 
-### 음함수의 미분법, 편미분
+### 음함수의 미분법, 편미분을 활용한 음함수의 미분, 음함수의 수평접선, 수직접선
 ![KakaoTalk_20240801_235417815](https://github.com/user-attachments/assets/9f1b9d88-6198-4988-b8a1-19cee6fd52c9)
 ![KakaoTalk_20240801_235418177](https://github.com/user-attachments/assets/ebabee1f-fbdc-45b8-abf0-c4d7295b805f)
+![KakaoTalk_20240802_233321532](https://github.com/user-attachments/assets/8d28eb3e-e52b-48d0-9a5d-fc0462fc1769)
+![KakaoTalk_20240802_233321873](https://github.com/user-attachments/assets/be15b002-fa27-42b5-bade-4cbe537c5ffc)
+---
+<br>
+
+### 음함수의 수평접선을 갖는 좌표 구하기, 미분을 통한 타원의 개형 예측, 수평접선 사이의 거리
+![KakaoTalk_20240802_233322157](https://github.com/user-attachments/assets/18cc7e1c-530e-4960-a640-c7a4b776eae9)
 ---
 <br>
 
