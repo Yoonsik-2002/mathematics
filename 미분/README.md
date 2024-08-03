@@ -21,7 +21,6 @@
 
 ### 미분의 정의(평균 변화율, 순간 변화율)
 ![KakaoTalk_20240727_234819784](https://github.com/user-attachments/assets/cf90697f-c803-4a3d-8ce6-0268ced25144)
-
 ![KakaoTalk_20240726_005603299](https://github.com/user-attachments/assets/fc18d58e-37d9-4134-bc1e-00350b1dfa2b)
 ![KakaoTalk_20240727_004049216](https://github.com/user-attachments/assets/a6738bf3-b33c-4eaa-a3a1-d2f94f99b1c1)
 ---
