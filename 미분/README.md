@@ -60,6 +60,11 @@
 ---
 <br>
 
+### 역함수의 미분법
+![KakaoTalk_20240814_001225613](https://github.com/user-attachments/assets/5875197a-0706-4a75-88ce-b1d8ef82db02)
+---
+<br>
+
 
 
 
