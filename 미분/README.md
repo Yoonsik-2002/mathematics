@@ -60,10 +60,17 @@
 ---
 <br>
 
-### 역함수의 미분법
+### 역함수의 미분법 - 유형1) 역함수의 미분계수(도함수의 값)를 구하는 경우
 ![KakaoTalk_20240814_001225613](https://github.com/user-attachments/assets/5875197a-0706-4a75-88ce-b1d8ef82db02)
 ---
 <br>
+
+### 역함수의 미분법 - 유형2) 역함수의 도함수를 구하는 경우
+![IMG_0768](https://github.com/user-attachments/assets/b59f4597-ed08-41d2-9b06-640ef2c3d0a3)
+![IMG_0769](https://github.com/user-attachments/assets/0ec130c1-d14a-4f22-9d5c-110492a36954)
+---
+<br>
+
 
 
 
