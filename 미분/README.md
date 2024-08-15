@@ -71,8 +71,9 @@
 ---
 <br>
 
-
-
-
+### 역함수의 미분법을 활용하여 arcsec(x)함수의 도함수 구하기(arcsec(x)의 도함수의 절대치x는 무슨의미인가?)
+![KakaoTalk_20240815_232954234](https://github.com/user-attachments/assets/e6875f94-26db-4361-89db-dcbe7097a0c3)
+---
+<br>
 
 
