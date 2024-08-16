@@ -76,4 +76,13 @@
 ---
 <br>
 
+### 매개변수함수의 미분
+![KakaoTalk_20240816_234822159](https://github.com/user-attachments/assets/cd41adf0-1ab8-4355-a00e-031867ce31d6)
+---
+<br>
+
+### 원의방정식의 매개화
+![KakaoTalk_20240816_234821783](https://github.com/user-attachments/assets/71b6fad7-11df-4e98-aa65-2415830975eb)
+---
+<br>
 
