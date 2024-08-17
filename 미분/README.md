@@ -81,8 +81,18 @@
 ---
 <br>
 
-### 원의방정식의 매개화
-![KakaoTalk_20240816_234821783](https://github.com/user-attachments/assets/71b6fad7-11df-4e98-aa65-2415830975eb)
+### 원의 방정식의 매개화
+![KakaoTalk_20240817_233313554](https://github.com/user-attachments/assets/3a0b75f3-f268-4de6-9a46-6a34e7a28f37)
+---
+<br>
+
+### 타원의 방정식의 매개화
+![KakaoTalk_20240817_233314161](https://github.com/user-attachments/assets/33fafde1-e35a-4b46-8462-75c0b4fb1842)
+---
+<br>
+
+### 사이클로이드(Cycloid)의 매개화
+![KakaoTalk_20240817_233314621](https://github.com/user-attachments/assets/2e9dbff6-61ff-4c14-bcb6-a909dd660c81)
 ---
 <br>
 
