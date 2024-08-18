@@ -92,7 +92,17 @@
 <br>
 
 ### 사이클로이드(Cycloid)의 매개화
-![KakaoTalk_20240817_233314621](https://github.com/user-attachments/assets/2e9dbff6-61ff-4c14-bcb6-a909dd660c81)
+![KakaoTalk_20240818_232507636](https://github.com/user-attachments/assets/94f67da3-3420-4563-a50e-eb897252aee7)
+---
+<br>
+
+### 성망형(Asteroid)의 매개화
+![KakaoTalk_20240818_232507411](https://github.com/user-attachments/assets/d89d6667-b1df-40ae-a085-8ea7795343a9)
+---
+<br>
+
+### 접선의 방정식과 법선의 방정식
+![KakaoTalk_20240818_232506968](https://github.com/user-attachments/assets/7dacac54-4d83-43d7-a3b5-3256d7e2191b)
 ---
 <br>
 
