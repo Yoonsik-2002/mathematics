@@ -93,6 +93,7 @@
 
 ### 사이클로이드(Cycloid)의 매개화
 ![KakaoTalk_20240818_232507636](https://github.com/user-attachments/assets/94f67da3-3420-4563-a50e-eb897252aee7)
+![KakaoTalk_20240819_231645205](https://github.com/user-attachments/assets/45808a04-703c-41c9-95a4-e8d1a11f1d22)
 ---
 <br>
 
