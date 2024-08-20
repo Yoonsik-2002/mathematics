@@ -104,6 +104,8 @@
 
 ### 접선의 방정식과 법선의 방정식
 ![KakaoTalk_20240818_232506968](https://github.com/user-attachments/assets/7dacac54-4d83-43d7-a3b5-3256d7e2191b)
+![KakaoTalk_20240820_235100924](https://github.com/user-attachments/assets/a99b0426-10ce-4d38-9060-bea47448dba9)
+![KakaoTalk_20240820_235100524](https://github.com/user-attachments/assets/1e60354f-4179-4041-badb-677720670ab4)
 ---
 <br>
 
