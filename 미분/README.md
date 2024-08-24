@@ -111,7 +111,12 @@
 
 ### 원의 방정식의 접선이 지날 수 없는 점
 ![KakaoTalk_20240822_002941949](https://github.com/user-attachments/assets/825e1bac-71db-450d-8cfd-d9705429b84f)
+![KakaoTalk_20240825_001443630](https://github.com/user-attachments/assets/ef689d10-bb7c-4203-88e7-7faf0ef7566e)
 ---
 <br>
 
 ### 뉴턴의 근사방법
+![KakaoTalk_20240825_001443341](https://github.com/user-attachments/assets/e0057b4e-b212-4cee-9adb-75dac4633069)
+![KakaoTalk_20240825_001442950](https://github.com/user-attachments/assets/c467d01b-62ac-4b04-8d57-c3bfd94242b0)
+---
+<br>
