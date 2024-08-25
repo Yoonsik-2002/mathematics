@@ -117,6 +117,6 @@
 
 ### 뉴턴의 근사방법
 ![KakaoTalk_20240825_001443341](https://github.com/user-attachments/assets/e0057b4e-b212-4cee-9adb-75dac4633069)
-![KakaoTalk_20240825_001442950](https://github.com/user-attachments/assets/c467d01b-62ac-4b04-8d57-c3bfd94242b0)
+![KakaoTalk_20240825_235907325](https://github.com/user-attachments/assets/0d0938f7-bd30-493f-b14b-0d3ab696d570)
 ---
 <br>
