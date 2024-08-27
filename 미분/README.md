@@ -120,3 +120,13 @@
 ![KakaoTalk_20240825_235907325](https://github.com/user-attachments/assets/0d0938f7-bd30-493f-b14b-0d3ab696d570)
 ---
 <br>
+
+### 접선의 방정식 유형별 예제
+![KakaoTalk_20240828_000540771](https://github.com/user-attachments/assets/2a7a9f26-8b0c-44a8-9884-8404240dae5b)
+![KakaoTalk_20240828_000540465](https://github.com/user-attachments/assets/bc66f104-0302-481a-a49f-3490a14112b2)
+![KakaoTalk_20240828_000539845](https://github.com/user-attachments/assets/ed751759-0bb9-45a9-a68f-f5bcee0a8cb0)
+---
+<br>
+
+
+
