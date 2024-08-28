@@ -124,7 +124,12 @@
 ### 접선의 방정식 유형별 예제(~접한다, 교각)
 ![KakaoTalk_20240828_000540771](https://github.com/user-attachments/assets/2a7a9f26-8b0c-44a8-9884-8404240dae5b)
 ![KakaoTalk_20240828_000540465](https://github.com/user-attachments/assets/bc66f104-0302-481a-a49f-3490a14112b2)
-![KakaoTalk_20240828_000539845](https://github.com/user-attachments/assets/ed751759-0bb9-45a9-a68f-f5bcee0a8cb0)
+![KakaoTalk_20240828_230709306](https://github.com/user-attachments/assets/7d8eba87-8706-43d5-ac8f-3843af7b25fd)
+---
+<br>
+
+### 고계도함수
+![KakaoTalk_20240828_230708794](https://github.com/user-attachments/assets/f2508782-7682-4fe5-8001-4d848db32c1a)
 ---
 <br>
 
