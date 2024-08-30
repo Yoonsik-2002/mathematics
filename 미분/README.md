@@ -1,3 +1,4 @@
+![KakaoTalk_20240830_002812717](https://github.com/user-attachments/assets/65425d46-57b3-4f82-9c2f-94e6776575b5)
 ## ✏ 미분
 ### 함수의 극한, 연속함수
 ![KakaoTalk_20240724_015018514](https://github.com/user-attachments/assets/1f746dae-5b46-4825-851c-458d106c507b)
@@ -134,6 +135,8 @@
 <br>
 
 ### (매개변수 함수, 음함수, 역함수의)2계도함수
-
-
+![KakaoTalk_20240830_002812717](https://github.com/user-attachments/assets/61ca60c8-5dec-4dfb-a3d1-dff1f0c60223)
+![KakaoTalk_20240830_002813086](https://github.com/user-attachments/assets/ae56e755-7e16-4c5e-b6c9-b2bddd108259)
+---
+<br>
 
