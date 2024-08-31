@@ -136,6 +136,9 @@
 ### (매개변수 함수, 음함수, 역함수의)2계도함수
 ![KakaoTalk_20240830_002812717](https://github.com/user-attachments/assets/61ca60c8-5dec-4dfb-a3d1-dff1f0c60223)
 ![KakaoTalk_20240830_002813086](https://github.com/user-attachments/assets/ae56e755-7e16-4c5e-b6c9-b2bddd108259)
+![KakaoTalk_20240831_233854663](https://github.com/user-attachments/assets/bcd6ddfa-19b9-4593-9cfa-1ae862bcd4c0)
+![KakaoTalk_20240831_233853187](https://github.com/user-attachments/assets/356dd1b9-870f-42fa-bf7e-16bb3f1684bd)
+
 ---
 <br>
 
