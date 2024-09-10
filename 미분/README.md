@@ -143,4 +143,5 @@
 <br>
 
 ### 접선의 방정식 예제
-
+![KakaoTalk_20240910_233930348](https://github.com/user-attachments/assets/195476df-7144-4599-8985-c6a8c798a372)
+![Uploading KakaoTalk_20240831_233854663.jpg…]()
